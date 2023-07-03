@@ -23,5 +23,22 @@ export default {
       name: 'views',
       type: 'number',
     },
+    {
+      title: 'Likes',
+      name: 'likes',
+      type: 'number',
+    },
+    {
+      title: 'Tags',
+      name: 'tag',
+      type: 'array',
+      of: [{type: 'string'}],
+    },
+    {
+      title: 'Categories',
+      name: 'category',
+      type: 'array',
+      of: [{type: 'string'}],
+    },
   ],
 }
