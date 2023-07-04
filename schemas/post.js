@@ -36,7 +36,7 @@ export default {
     },
     {
       title: 'Categories',
-      name: 'Categories',
+      name: 'categories',
       type: 'array',
       of: [{type: 'string'}],
     },
