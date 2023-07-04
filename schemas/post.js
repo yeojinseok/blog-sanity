@@ -30,13 +30,13 @@ export default {
     },
     {
       title: 'Tags',
-      name: 'tag',
+      name: 'tags',
       type: 'array',
       of: [{type: 'string'}],
     },
     {
       title: 'Categories',
-      name: 'category',
+      name: 'Categories',
       type: 'array',
       of: [{type: 'string'}],
     },
