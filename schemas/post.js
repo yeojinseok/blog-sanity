@@ -21,7 +21,7 @@ export default {
     {
       title: 'ThumbnailURL',
       name: 'thumbnailURL',
-      type: 'image',
+      type: 'string',
     },
     {
       title: 'Views',
