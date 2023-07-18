@@ -9,13 +9,18 @@ export default {
       type: 'string',
     },
     {
+      title: 'PostID',
+      name: 'postID',
+      type: 'string',
+    },
+    {
       title: 'Content',
       name: 'content',
       type: 'markdown',
     },
     {
-      title: 'ImageURL',
-      name: 'imageURL',
+      title: 'ThumbnailURL',
+      name: 'thumbnailURL',
       type: 'image',
     },
     {
