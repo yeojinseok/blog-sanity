@@ -1,4 +1,4 @@
 import post from './post'
 import tag from './tag'
 import category from './category'
-export const schemaTypes = [post, tag, category]
+export const schemaTypes = [tag, category]
